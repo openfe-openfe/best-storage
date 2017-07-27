@@ -1,5 +1,5 @@
 {
-  "name": "better-storage",
+  "name": "best-storage",
   "version": "1.0.1",
   "description": "a storage lib which support sessionStorage and localStorage with the same api",
   "main": "dist/storage.js",
@@ -13,14 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/songhaoreact/better-storage.git"
+    "url": "git+https://github.com/songhaoreact/best-storage.git"
   },
   "author": "ustbhuangyi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/songhaoreact/better-storage.git/issues"
+    "url": "https://github.com/songhaoreact/best-storage.git/issues"
   },
-  "homepage": "https://github.com/songhaoreact/better-storage.git#readme",
+  "homepage": "https://github.com/songhaoreact/best-storage.git#readme",
   "dependencies": {
     "babel-runtime": "^6.0.0"
   },

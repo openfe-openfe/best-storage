@@ -1,15 +1,15 @@
-# better-storage
+# best-storage
     简单封装本地存储api
 ## 如何安装
 
 ```
- npm install better-storage
+ npm install best-storage
 ```
 
 ## 如何使用
 
 ```
- import storage from 'better-storage'
+ import storage from 'best-storage'
  
  // localStorage
  storage.set(key,val) 
